@@ -1,1 +1,8 @@
-ECHO est  activado.
+node_modules/
+*.exe
+*.tmp
+
+.DS_Store
+Thumbs.db
+
+.vscode/
