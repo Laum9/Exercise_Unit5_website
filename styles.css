@@ -1,0 +1,14 @@
+p
+{
+    font-family: 'Courier New', Arial, Helvetica, sans-serif;
+    margin: 20px;
+}
+body
+{
+    background-color: rgb(255, 237, 240);
+}
+body img
+{
+    width: 300px;
+    height: 300px;
+}
